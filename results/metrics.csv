@@ -1,0 +1,2 @@
+task,accuracy,f1_macro,precision,recall,total_samples,errors,elapsed_sec
+sentiment,0.75,0.7554961378490791,0.8484848484848485,0.7619047619047619,20,2,36.69
